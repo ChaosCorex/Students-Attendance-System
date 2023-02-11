@@ -1,0 +1,1 @@
+class LectureAttendanceExpired implements Exception {}

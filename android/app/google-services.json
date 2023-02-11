@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622195409889",
+    "firebase_url": "https://ssas-1fe14-default-rtdb.firebaseio.com",
+    "project_id": "ssas-1fe14",
+    "storage_bucket": "ssas-1fe14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622195409889:android:035ac922f07bc97be908a0",
+        "android_client_info": {
+          "package_name": "com.example.ssas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622195409889-8du7c505kihqscr5jn8105lb83oj9j33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ssas",
+            "certificate_hash": "c5026e5b8594f85fe5b2f17265b11a3b30d7c273"
+          }
+        },
+        {
+          "client_id": "622195409889-8jmk37ju5c6besamr97nnvko9ehj7j7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJQ6WjDnSv3yl28PgYWDlvCG4An76pB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622195409889-8jmk37ju5c6besamr97nnvko9ehj7j7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
